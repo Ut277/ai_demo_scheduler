@@ -3,3 +3,4 @@ finetuned_model/
 finetuned_model/checkpoint-12/
 finetuned_model/model.safetensors
 finetuned_model/checkpoint-12/optimizer.pt
+"credentials/credentials.json" 
