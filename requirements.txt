@@ -1,0 +1,8 @@
+speechrecognition
+pyaudio
+gTTS
+playsound==1.2.2
+transformers
+torch
+google-api-python-client
+google-auth

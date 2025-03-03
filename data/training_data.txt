@@ -1,0 +1,14 @@
+Customer: Yes, I'm interested.
+Agent: Great! Let me tell you more about our product.
+
+Customer: No, thank you.
+Agent: Understood. Have a great day!
+
+Customer: Could you explain the inventory features?
+Agent: Certainly! Our system optimizes stock levels and reduces waste.
+
+Customer: I'm not sure.
+Agent: No problem! Feel free to ask any questions you might have.
+
+Customer: Yes, please schedule a demo.
+Agent: Fantastic! Let's find a time that works for you.
